@@ -1,0 +1,107 @@
+# {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-image: url("car\ .png");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.menu {
+     float: right;
+     text-decoration: none;
+     margin-top: 30px;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a{
+
+    color: rgb(255, 72, 0);
+    text-decoration: brown;
+    padding: 5px 20px;
+    font-size: 20px;
+
+}
+
+.homebtn{
+
+    border: 1px solid gray;
+    background-color: honeydew;
+}
+
+
+.historybtn{
+    border: 1px solid gray;
+    background-color: honeydew;
+
+}
+
+.designbtn{
+    border: 1px solid gray;
+    background-color: honeydew;
+}
+
+.contactbtn{
+    border: 1px solid gray;
+    background-color: honeydew;
+
+}
+
+
+.aboutbtn{
+    border: 1px solid gray;
+    background-color: honeydew;
+
+}
+
+.tagline{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+h1{
+    color: honeydew;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 275px;
+
+}
+
+.register{
+    margin-top: 30px;
+    margin-left: 540px;
+}
+
+.bttn{
+    border: 1px solid gray;
+    padding: 10px 30px;
+    color: greenyellow;
+    font-size: 22px;
+    text-decoration: grey;
+
+}
+
+.bttn{
+    background-color: ivory;
+
+}
+
+button{
+    border: 20px;
+    background-color: rgb(133, 255, 122);
+}
+
+
+
+
+ 
+
+
